@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdcyber1
+- 👋 Hi, I’m @jagannath
 - 👀 I’m interested in ...cyber security and computer stuff and explore more in internet
 - 🌱 I’m currently learning ... bugs 
 - 😄 Pronouns: ...jd
